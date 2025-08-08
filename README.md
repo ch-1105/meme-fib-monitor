@@ -24,9 +24,8 @@ meme-fib-monitor/
 ├── telegram_bot.py       # Handles sending alerts via the Telegram Bot API
 ├── settings.py           # Application settings and constants
 ├── tokens.json           # Database of tokens to monitor
-├── requirements.txt      # Python dependencies
 ├── logs/                   # Directory for log files
-│   └── rsi_monitor.log
+│   └── meme-fib-monitor.log
 └── utils/                  # Utility modules
     ├── logger.py         # Logging configuration
     └── formatters.py     # Data formatting helpers
